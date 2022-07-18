@@ -7,5 +7,5 @@
 
 [Website Demo](https://personal-portfolio-a7mdmo74.vercel.app/)
 
-![15](https://user-images.githubusercontent.com/68064222/176212548-8f48d4d2-cfd8-4182-a5b1-c3dc1efb1f70.jpg)
+![portfolio](https://user-images.githubusercontent.com/68064222/179459945-82696bbb-b29a-4cc2-8a6a-6e46c7abb7a4.png)
 
